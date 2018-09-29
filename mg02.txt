@@ -29,4 +29,11 @@ y elimine al menos 5 líneas.
 --Clase Programacion Avansada
 --Practica GITHUB
 --HOra 9:56
+
+
+--Modificacion Alfredo Hernández
+--Sabado 29 de Septiembre del 2018
+--Clase Programacion Avanzada
+--Practica GITHUB
+--Hora 10:00
 -----------------------------------fin--------------------------------------

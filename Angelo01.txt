@@ -16,13 +16,11 @@ en relación con el fluido eléctrico en el plantel de Moín, en el plantel
  de El Alto y en la zona de almacenamiento de gas en la Caja de Conexiones 
 del Sistema de Medición Automática.
 
-
-También consideró que no se cumplió con la obligación de agotar la conciliación 
+También consideró que no se cumplió con la obligación  agotar la conciliación 
 antes de acudir a la huelga.
 
 En relación con la pretensión sindical de no exigir los requisitos de
-participación mínima para la huelga, el juez indicó que “por ser una huelga
- no regulada no quiere decir que no se le puedan aplicar 
+participación  para la huelga, el juez indicó que “por ser una huelga
 los preceptos contenidos en el artículo 381 de nuestro Código de Trabajo”.
 
 Estas son las modificaciones de ALLAN
@@ -32,3 +30,11 @@ realizará la modificación de 2 archivos de 3 compañeros diferentes
 de modo que agregue 5 nuevas líneas,
 modifique al menos 5 líneas
 y elimine al menos 5 líneas.
+
+
+--Modificacion Alfredo Hernández
+--Sabado 29 de Septiembre del 2018
+--Clase Programacion Avanzada
+--Practica GITHUB
+--Hora 10:00
+-----------------------------------fin--------------------------------------

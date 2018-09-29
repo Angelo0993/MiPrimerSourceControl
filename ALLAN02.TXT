@@ -10,7 +10,7 @@ To perfect the other details of her ensemble,
 Hasbro sent a designer to the set to sketch out her finished costume, 
 which differed from the concept art they had started on.
 “We plan for that evolution of design,” Bono says. 
-Sometimes toy designers use actual fabric swatches from costumes 
+toy designers use actual fabric from costumes 
 for comparison or arrive on set armed with Pantone
 color books to perfectly match every shade.
 
@@ -20,4 +20,10 @@ color books to perfectly match every shade.
 --Clase Programacion Avansada
 --Practica GITHUB
 --HOra 9:56
+
+--Modificacion Alfredo Hernández
+--Sabado 29 de Septiembre del 2018
+--Clase Programacion Avanzada
+--Practica GITHUB
+--Hora 10:00
 -----------------------------------fin--------------------------------------
