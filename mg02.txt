@@ -21,3 +21,12 @@ realizará la modificación de 2 archivos de 3 compañeros diferentes
 de modo que agregue 5 nuevas líneas,
 modifique al menos 5 líneas
 y elimine al menos 5 líneas.
+
+
+
+--Modificacion Angelo Hidalgo
+--Sabado 29 de Septiembre del 2018
+--Clase Programacion Avansada
+--Practica GITHUB
+--HOra 9:56
+-----------------------------------fin--------------------------------------

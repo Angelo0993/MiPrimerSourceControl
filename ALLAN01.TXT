@@ -13,3 +13,10 @@ Al aplicar los estilos, los títulos cambian para coincidir con el nuevo tema.
 Diseño y seleccione un tema nuevo, cambiarán las imágenes, gráficos y gráficos 
 SmartArt para que coincidan con el nuevo tema. Al aplicar los estilos, 
 los títulos cambian para coincidir con el nuevo tema.
+
+--Modificacion Angelo Hidalgo
+--Sabado 29 de Septiembre del 2018
+--Clase Programacion Avansada
+--Practica GITHUB
+--HOra 9:56
+-----------------------------------fin--------------------------------------

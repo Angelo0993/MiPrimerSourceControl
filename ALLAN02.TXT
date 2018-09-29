@@ -13,3 +13,11 @@ which differed from the concept art they had started on.
 Sometimes toy designers use actual fabric swatches from costumes 
 for comparison or arrive on set armed with Pantone
 color books to perfectly match every shade.
+
+
+--Modificacion Angelo Hidalgo
+--Sabado 29 de Septiembre del 2018
+--Clase Programacion Avansada
+--Practica GITHUB
+--HOra 9:56
+-----------------------------------fin--------------------------------------
