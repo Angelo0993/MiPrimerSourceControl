@@ -13,3 +13,11 @@ Tras el matrimonio en 1802 del príncipe Fernando con María Antonia de Nápoles
   Napoleón Bonaparte aprovechó la situación para intervenir en España al forzar a su vez la abdicación de Carlos IV en su favor y la renuncia del príncipe Fernando a sus derechos de sucesión. Napoleón les había obligado a acudir a Bayona.
    Este episodio es conocido como las abdicaciones de Bayona y tuvo lugar el 5 de mayo de 1808.
    María Luisa acompañó a su marido al destierro, primero en Francia, confinados por Napoleón en Compiègne, y posteriormente en Roma, donde falleció, reinando ya su hijo Fernando en España, el cual ordenó el traslado de los restos de sus padres para ser enterrados en el Panteón de los Reyes del Monasterio de El Escorial.
+  
+  Estas son las modificaciones de ALLAN
+-	Sobre su Branch, 
+realizará la modificación de 2 archivos de 3 compañeros diferentes 
+(no los que usted subió), 
+de modo que agregue 5 nuevas líneas,
+modifique al menos 5 líneas
+y elimine al menos 5 líneas.

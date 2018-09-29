@@ -13,3 +13,11 @@ Entre otras calumnias se llegó a decir que Godoy era el verdadero padre de la i
   La primera serie estaba dedicada al encumbramiento de Godoy —apodado en las estampas como «Manolo Primero, de otro nombre Choricero» o como AJIPEDOBES (que debe leerse de derecha a izquierda)— gracias a los favores de la reina María Luisa que era presentada como una depravada sexual devorada por la lujuria.3​
   Estuvo enfrentada con numerosos miembros de la Corte española del momento. Destacó la rivalidad que mantuvieron la reina y la duquesa de Alba, musa de Goya. 
   También tuvo desavenencias con la duquesa de Osuna.
+
+  Estas son las modificaciones de ALLAN
+-	Sobre su Branch, 
+realizará la modificación de 2 archivos de 3 compañeros diferentes 
+(no los que usted subió), 
+de modo que agregue 5 nuevas líneas,
+modifique al menos 5 líneas
+y elimine al menos 5 líneas.

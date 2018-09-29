@@ -20,3 +20,11 @@ el financiamiento mediante le colocación de títulos de deuda que mediante ingres
 Urge mejorar la efectividad e incrementar la recaudación tributaria”, agrega el informe.
 
 El servicio de la deuda para el 2019 supera los ¢4,5 billones, el 41,6% del total.
+
+Estas son las modificaciones de ALLAN
+-	Sobre su Branch, 
+realizará la modificación de 2 archivos de 3 compañeros diferentes 
+(no los que usted subió), 
+de modo que agregue 5 nuevas líneas,
+modifique al menos 5 líneas
+y elimine al menos 5 líneas.
