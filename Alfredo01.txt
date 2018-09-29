@@ -1,0 +1,15 @@
+-	Utilizando Microsoft 
+Visual Studio, cada uno 
+de los integrantes realizará 
+la subida de tres archivos, los cuales 
+tendrán entre 15 y 20 
+líneas, se 
+llamarán 
+con su nombre 
+seguido de una 
+secuencia numérica y deberán
+ser del tipo texto
+plano (por 
+ejemplo, Juancito realizará 
+la subida de los archivos
+Juancito01.txt
